@@ -9,12 +9,12 @@ Aqui mostra o registro da minha jornada de aprendizado, praticando e aprimorando
 java-funcoes-basicas/
 ├── src/
 │   ├── SaudacaoSimples.java
-│   ├── SomarDoisNumeros.java
+│   ├── SomarNumeros.java
 │   ├── VerificarParidade.java
 │   ├── MaiorDeDoisNumeros.java
-│   ├── AreaRetangulo.java
+│   ├── CalcularArea.java
 │   ├── ContagemRegressiva.java
-│   ├── MediaTresNumeros.java
+│   ├── MediadosNumeros.java
 │   ├── VerificarVogal.java
 │   ├── PotenciaSimples.java
 │   └── InverterString.java
